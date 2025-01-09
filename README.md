@@ -72,8 +72,8 @@ Using streamlit, we have delployed a machine learning model,where we could predi
 
 ![018](https://github.com/user-attachments/assets/021d17ab-9023-4c43-9cdf-6ac466468c0f)
 
-![019](https://github.com/user-attachments/assets/ea32c126-ad78-4536-9708-43c8133ea624)
+![019 (2)](https://github.com/user-attachments/assets/579ad26c-8c3e-4c09-a4d0-a622d5bef551)
 
-![020](https://github.com/user-attachments/assets/269f5682-05ac-43c4-bd10-ce1beef9b343)
+![020 (2)](https://github.com/user-attachments/assets/87e8f730-e86e-433d-b04b-684009e4bb43)
 
 
