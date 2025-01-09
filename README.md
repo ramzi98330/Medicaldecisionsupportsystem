@@ -50,9 +50,14 @@ Assigning input values to variable x and output values to variable y
 ![013](https://github.com/user-attachments/assets/5e4b915d-3599-46b1-be4a-83ce5d4fdd71)
 
 Using sklearn library, we split the training and testing data with a training size of 0.70 and random state value as 42.
+
 Using different machine learning models, we tried to predict the accuracy of the model. Amongst all the trail and errors, decision tree regressor showed high accuracy compared to other models like logistic regression, random forest classfier.
 
 ![014](https://github.com/user-attachments/assets/c6d4344e-a12f-40a2-8f87-c7c0632a7c3e)
+
+Using Grid Search, we have made the hyperparameter tuning which evaluates the performance of the model using a scoring metric (e.g., accuracy, precision, recall). It selects the combination of hyperparameters that yields the best performance on the validation set.
+
+![14(1)](https://github.com/user-attachments/assets/a6032734-e22a-4dc2-bb73-c6c6ed99b731)
 
 Using bar chart, we have visualized the accuracy score amongst the machine learning models.
 
